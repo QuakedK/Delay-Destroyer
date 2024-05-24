@@ -1,5 +1,5 @@
-# 0-Delay
-0 Delay: The all-in-one lower latency tool. 😎 
+# (Quaked) Latency Tweaks
+(Quaked) Latency Tweaks: The all-in-one lower latency tool. 😎 
 
 As many of y'all know most quote unquote 0 delay tricks do nothing, it's almost always bullshit. But there's real & legitimate methods, to get the lowest delay possible on your computer.
 
