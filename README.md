@@ -17,4 +17,4 @@ in combination with:
 
 (Quaked Power Plan Section) to apply a power plan that has Processor Performance Time Check Interval set to max to dramatically reduce input delay.
 
-Simply run [Latency Tweaks](https://github.com/QuakedK/0-Delay/releases/download/optimization/Quaked-Latency-Tweaks-V2.2.bat) as admin, and almost everything else is automatic, except user-required inputs.
+Simply run [Latency Tweaks](https://github.com/QuakedK/Latency-Tweaks/releases/download/optimization/Quaked-Latency-Tweaks-V3.0.bat) as admin, and almost everything else is automatic, except user-required inputs.
