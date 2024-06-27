@@ -1,20 +1,10 @@
 # Delay Destroyer
-(Quaked) Latency Tweaks: The all-in-one lower latency tool. 😎 
+Many latency Tweaks do absolutely nothing, it's almost always bullshit. But there's some real & legitimate methods, to get the lowest delay/latency.
+Using this bat will be using and applying SvcHost Tweaks, System Clock Settings, Priority Separation, Timer Resolution, NDIS Driver Tweaks, Device Manager Tweaks, Power Plan Section
+to dramatically reduce latency
 
-As many of y'all know most quote unquote 0 delay tricks do nothing, it's almost always bullshit. But there's real & legitimate methods, to get the lowest delay possible on your computer.
+![image](https://github.com/QuakedK/Delay-Destroyer/assets/124531365/4c564ad0-a88a-4fdd-b8e5-ada619a0d0d7)
 
-in combination with: 
-
-(System Clock Settings) to properly configure timer res right.
-
-(Priority Separation) to increase system responsiveness. 
-
-(Timer Res & Global Res) to dramatically lower latency.
-
-(Khorive's NDIS Network Tweaks) to Lower latency with the ndis driver.
-
-(Calypto's Device Manger Tweaks) to turn off unnecessary devices. 
-
-(Quaked Power Plan Section) to apply a power plan that has Processor Performance Time Check Interval set to max to dramatically reduce input delay.
-
-Simply run [Latency Tweaks](https://github.com/QuakedK/Latency-Tweaks/releases/download/optimization/Quaked-Latency-Tweaks-V3.0.bat) as admin, and almost everything else is automatic, except user-required inputs.
+# Usage
+1. Download [Delay Destroyer](https://github.com/QuakedK/Oneclick/releases/download/optimizer/Oneclick-V6.7.bat).
+2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
