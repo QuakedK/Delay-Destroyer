@@ -6,5 +6,5 @@ to dramatically reduce latency
 ![New Project](https://github.com/QuakedK/Delay-Destroyer/assets/124531365/332b12be-018d-4e24-9a72-7e6f2e895bf5)
 
 # Usage
-1. Download [Delay Destroyer](https://github.com/QuakedK/Oneclick/releases/download/optimizer/Oneclick-V6.7.bat).
+1. Download [Delay Destroyer](https://github.com/QuakedK/Delay-Destroyer/releases/download/Latency/Delay-Destroyer.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
