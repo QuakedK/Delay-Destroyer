@@ -9,4 +9,4 @@ to dramatically reduce latency
 1. Download [Delay Destroyer](https://github.com/QuakedK/Delay-Destroyer/releases/download/Latency/Delay-Destroyer.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
    
-If you need Help, go to [Delay Destroyer Recommendations](https://github.com/QuakedK/Delay-Destroyer/blob/main/Delay%20Destroyer%20Recommendations.md)
+If you need Help, go to [Delay Destroyer Recommendations](https://github.com/QuakedK/Delay-Destroyer/blob/main/Delay%20Destroyer%20Recommendations.md) or [Delay Destroyer Help](https://github.com/QuakedK/Delay-Destroyer/blob/main/Delay%20Destoyer%20Help.md)
